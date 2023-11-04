@@ -1,6 +1,6 @@
 [submodule "submodules/proja.git"]
-	path = submodules/proja.git
+	path = submodules/proja
 	url = https://github.com/md-software/proja.git
 [submodule "submodules/projb.git"]
-	path = submodules/projb.git
+	path = submodules/projb
 	url = https://github.com/md-software/projb.git
